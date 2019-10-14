@@ -1,0 +1,5 @@
+*.vec
+*.pyc
+source_BIO_2014_cropus.txt
+target_BIO_2014_cropus.txt
+/Automatic-Extraction/NER-master/.vscode/*
