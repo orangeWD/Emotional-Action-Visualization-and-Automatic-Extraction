@@ -1,0 +1,83 @@
+[2019-10-14 15:11:02]: torch data_processor.py[line:173] INFO  Word to id file existed
+[2019-10-14 15:11:02]: torch data_processor.py[line:113] INFO  Text to id file existed
+[2019-10-14 15:12:55]: torch data_processor.py[line:173] INFO  Word to id file existed
+[2019-10-14 15:12:55]: torch data_processor.py[line:113] INFO  Text to id file existed
+[2019-10-14 15:13:03]: torch embedding_util.py[line:24] INFO  Get embedding
+[2019-10-14 15:15:59]: torch data_processor.py[line:173] INFO  Word to id file existed
+[2019-10-14 15:15:59]: torch data_processor.py[line:113] INFO  Text to id file existed
+[2019-10-14 15:16:08]: torch embedding_util.py[line:24] INFO  Get embedding
+[2019-10-14 15:16:56]: torch data_processor.py[line:173] INFO  Word to id file existed
+[2019-10-14 15:16:56]: torch data_processor.py[line:113] INFO  Text to id file existed
+[2019-10-14 15:17:04]: torch embedding_util.py[line:24] INFO  Get embedding
+[2019-10-14 15:17:06]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2019-10-14 15:19:32]: torch data_processor.py[line:173] INFO  Word to id file existed
+[2019-10-14 15:19:32]: torch data_processor.py[line:113] INFO  Text to id file existed
+[2019-10-14 15:19:41]: torch embedding_util.py[line:24] INFO  Get embedding
+[2019-10-14 15:19:43]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2019-10-14 15:26:49]: torch data_processor.py[line:173] INFO  Word to id file existed
+[2019-10-14 15:26:49]: torch data_processor.py[line:113] INFO  Text to id file existed
+[2019-10-14 15:26:57]: torch embedding_util.py[line:24] INFO  Get embedding
+[2019-10-14 15:26:58]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2019-10-14 15:27:48]: torch data_processor.py[line:173] INFO  Word to id file existed
+[2019-10-14 15:27:48]: torch data_processor.py[line:113] INFO  Text to id file existed
+[2019-10-14 15:27:56]: torch embedding_util.py[line:24] INFO  Get embedding
+[2019-10-14 15:27:58]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2019-10-14 15:28:56]: torch data_processor.py[line:173] INFO  Word to id file existed
+[2019-10-14 15:28:56]: torch data_processor.py[line:113] INFO  Text to id file existed
+[2019-10-14 15:29:04]: torch embedding_util.py[line:24] INFO  Get embedding
+[2019-10-14 15:29:06]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2019-10-14 15:58:09]: torch data_processor.py[line:177] INFO  Word to id file existed
+[2019-10-14 15:58:09]: torch data_processor.py[line:113] INFO  Text to id file existed
+[2019-10-14 15:58:38]: torch data_processor.py[line:177] INFO  Word to id file existed
+[2019-10-14 15:58:38]: torch data_processor.py[line:113] INFO  Text to id file existed
+[2019-10-14 15:58:47]: torch embedding_util.py[line:24] INFO  Get embedding
+[2019-10-14 15:58:49]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2019-10-14 16:42:08]: torch train.py[line:125] INFO  
+
+Epoch 1 - train_loss: 0.468941 - eval_loss: 0.513465 - train_acc:0.874569 - eval_acc:0.847093 - eval_f1:0.101913
+
+[2019-10-14 17:15:05]: torch data_processor.py[line:177] INFO  Word to id file existed
+[2019-10-14 17:15:05]: torch data_processor.py[line:113] INFO  Text to id file existed
+[2019-10-14 17:15:37]: torch data_processor.py[line:177] INFO  Word to id file existed
+[2019-10-14 17:15:37]: torch data_processor.py[line:113] INFO  Text to id file existed
+[2019-10-14 17:16:12]: torch data_processor.py[line:50] INFO  Building vocab
+[2019-10-14 17:16:12]: torch data_processor.py[line:66] INFO  vocab_size is 2220
+[2019-10-14 17:18:39]: torch data_processor.py[line:50] INFO  Building vocab
+[2019-10-14 17:18:40]: torch data_processor.py[line:66] INFO  vocab_size is 2220
+[2019-10-14 18:46:19]: torch data_processor.py[line:50] INFO  Building vocab
+[2019-10-14 18:46:19]: torch data_processor.py[line:66] INFO  vocab_size is 2833
+[2019-10-14 18:47:35]: torch data_processor.py[line:50] INFO  Building vocab
+[2019-10-14 18:47:35]: torch data_processor.py[line:66] INFO  vocab_size is 2833
+[2019-10-14 18:48:09]: torch data_processor.py[line:177] INFO  Word to id file existed
+[2019-10-14 18:56:19]: torch data_processor.py[line:177] INFO  Word to id file existed
+[2019-10-14 19:02:15]: torch data_processor.py[line:177] INFO  Word to id file existed
+[2019-10-14 19:02:26]: torch data_processor.py[line:50] INFO  Building vocab
+[2019-10-14 19:02:26]: torch data_processor.py[line:66] INFO  vocab_size is 2833
+[2019-10-14 19:05:30]: torch data_processor.py[line:50] INFO  Building vocab
+[2019-10-14 19:05:31]: torch data_processor.py[line:66] INFO  vocab_size is 2926
+[2019-10-14 19:10:24]: torch data_processor.py[line:50] INFO  Building vocab
+[2019-10-14 19:10:24]: torch data_processor.py[line:66] INFO  vocab_size is 2926
+[2019-10-14 19:10:24]: torch data_processor.py[line:121] INFO  Text to id
+[2019-10-14 19:10:25]: torch data_processor.py[line:84] INFO  train val split
+[2019-10-14 19:10:25]: torch data_processor.py[line:160] INFO  Writing train to file done
+[2019-10-14 19:10:25]: torch data_processor.py[line:169] INFO  Writing valid to file done
+[2019-10-14 19:10:47]: torch data_processor.py[line:177] INFO  Word to id file existed
+[2019-10-14 19:10:47]: torch data_processor.py[line:113] INFO  Text to id file existed
+[2019-10-14 19:10:47]: torch embedding_util.py[line:24] INFO  Get embedding
+[2019-10-14 19:10:49]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2019-10-14 19:11:44]: torch train.py[line:125] INFO  
+
+Epoch 1 - train_loss: 2.298533 - eval_loss: 1.004143 - train_acc:0.336000 - eval_acc:0.804064 - eval_f1:0.118628
+
+[2019-10-14 19:12:48]: torch train.py[line:125] INFO  
+
+Epoch 2 - train_loss: 1.452999 - eval_loss: 0.997891 - train_acc:0.440937 - eval_acc:0.804064 - eval_f1:0.118628
+
+[2019-10-14 19:13:41]: torch train.py[line:125] INFO  
+
+Epoch 3 - train_loss: 1.427618 - eval_loss: 0.931474 - train_acc:0.653670 - eval_acc:0.831321 - eval_f1:0.100877
+
+[2019-10-14 19:14:41]: torch train.py[line:125] INFO  
+
+Epoch 4 - train_loss: 1.409427 - eval_loss: 0.947420 - train_acc:0.691896 - eval_acc:0.831321 - eval_f1:0.100877
+
