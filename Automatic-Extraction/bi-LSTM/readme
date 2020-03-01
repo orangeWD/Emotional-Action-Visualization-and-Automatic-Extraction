@@ -1,0 +1,6 @@
+模型只有朴素的bi-lstm，什么特效都没加，准确率极低。
+
+训练了三百多条语句，训练集准确度只有23%左右。接下来会改进，加上Attention之类的。
+
+链接: https://pan.baidu.com/s/1ItR_JFUigEIr_k8pSo6gAw&shfl=shareset 提取码: 1cat
+↑训练好的准确率23%的文件
